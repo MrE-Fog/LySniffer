@@ -1,4 +1,7 @@
-# LySniffer 数据包解包工具
+# LySniffer 数据包抓包工具
+
+![image](https://user-images.githubusercontent.com/52789403/192729389-0ab902f4-fe2c-42b9-a93a-9022099efd62.png)
+
 
 一款运用Npcap库开发的流量数据包解析工具，支持匹配过滤条件表达式。
 
